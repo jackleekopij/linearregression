@@ -37,7 +37,7 @@ diabetes_y_test = diabetes.target[-20:]
 ```
 
 
-# Create linear regression object and run the model. 
+## Create linear regression object and run the model. 
 The following code is the central piece to our regression. 
 **TASK**: The x variable for the training has been left for you to fill in. Paste in the correct x variable (from above) into the code to train the model.
 ```python
@@ -46,20 +46,20 @@ regr = linear_model.LinearRegression()
 regr.fit(<fill in correct data here>, diabetes_y_train)
 ```
 
-# Make predictions using the testing set
+## Make predictions using the testing set
 The following will make a prediction based our test set x. 
 ```python
 diabetes_y_pred = regr.predict(diabetes_X_test)
 ```
 
-# Print the mean squared error
+## Print the mean squared error
 The MSE assesses the quality of a predictor, the lower the value the better. 
 ```python
 print("Mean squared error: %.2f"
       % mean_squared_error(diabetes_y_test, diabetes_y_pred))
 ```      
 
-# Plot what the line of best fit
+## Plot what the line of best fit
 It is always good to plot the output of your results. The below code will plot our results, however, it would throw an error if you try and run it. 
 **TASK**: Fix the code by editing plt.plot line by setting the color to blue
 ```python
