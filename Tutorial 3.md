@@ -2,15 +2,15 @@
 
 
 ## Contents:
-  - [1. If statements](#1. If statements)
-  - [2. For loops](#2. For loops )
-  - [3. Combing both](#3. Combing both)
-  - [4. Lists](#4. Lists)
-  - [5. Dictionaries](#5. Dictionaries)
-  - [6. Combining EVERYTHING together](#6. Combining EVERYTHING together) 
+  - [1. If statements](#If statements)
+  - [2. For loops](#For loops )
+  - [3. Combing both](#Combing both)
+  - [4. Lists](#Lists)
+  - [5. Dictionaries](#Dictionaries)
+  - [6. Combining EVERYTHING together](#Combining EVERYTHING together) 
 
  
-## 1. If statements
+## If statements
 *If statements* perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false. *If statements* are very important in branching processes and help segregate blocks of code based off of logic. 
 
 Below is an example of an *if statement* in Python
@@ -39,7 +39,7 @@ else:
   print "I may need to check what type x is. "
 ```
 
-## 2. For loops 
+## For loops 
 A *for loop* is a control flow statement for specifying iteration, which allows code to be executed repeatedly. 
 
 Below is an example of an *for loop* in Python
@@ -57,7 +57,7 @@ for element in range(?,?):
 
 
 
-## 3. Combing both
+## Combing both
 Both *if statements* and *for loops* are fundamental building blocks to programming. In combination they allow for logic to be repeatedbly be applied.
 
 Below are two tasks to test your knowledge by combining the two. 
@@ -82,7 +82,7 @@ for element in range(10):
 ```
 
 
-## 4. Lists
+## Lists
 Data types have already been explored in *Task 1.2*. Common data types include strings, floats and integers. Another important data type is the *list*. In Python, a *list* can initially be thought of as a vector. You can do analogous tasks to them, reference, multiply them, add them etc. 
 
 Below is an example that prints '12', and '12, "test"', respectively. 
@@ -105,7 +105,7 @@ my_third_list = [17, 25, 37, "42", 100]
 print( ? )
 ```
 
-## 5. Dictionaries
+## Dictionaries
 Like *lists*, *dictionaries* are another data type and another way to store data. However, instead of storing data as a single vector, they store data as key value. This data structure (analogous to JSON) is very common and used alot for APIs. More information on JSON data structures and it's usefulness can be found [here]()
 
 Below is an example of a *dictionary*. Note how we use "second" as a key and '.keys()' to get all the keys.
@@ -131,7 +131,7 @@ Print out the values for the dictionary in ascending order. Hint: if a dictionar
 my_third_dictionary = {"first": 10, "fifty": 50, "third": 30, "second": 20, "four": 40}
 print( ?(my_third_dicitonary?) )
 ```
-## 6. Combining EVERYTHING together
+## Combining EVERYTHING together
 Now you have been through all of the most important data structures and logic it is time to bring them all together.
 
 **Task 6.1** 
