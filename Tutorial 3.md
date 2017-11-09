@@ -113,6 +113,8 @@ Below is an example of a *dictionary*. Note how we use "second" as a key and '.k
 my_first_dictionary = {"first": 12, "second":20, "third":42}
 print( my_first_dictionary['second'] ) 
 print( my_first_dictionary.keys() )
+# We can add to the dictionary be doing the following. 
+my_first_dictionary['fourth'] = 3.14
 ```
 
 **Task 5.1**
@@ -143,9 +145,13 @@ for i in ?:
 ```
 
 **Task 6.2**
-To be updated
+We have so far covered generic *for loops*, however, we are now going to look at special type called the *enumerate for loop*. This not only loops of values but also keeps an index as it it looping. A documentation of these loops can be found [here](http://book.pythontips.com/en/latest/enumerate.html). In the last task, your job is to initialise a dictionary called 'Austrlian_cities', and use the *enumerate for loop* to iterate through the keys (States) and save their capital cities as the values in a dictionary. Once created, print out this dictionary. 
 ```python
-
-  if :
-    print 
+Australian_cities = {}
+keys = ["WA", "Vic", "NSW", "SA" ]
+values = ["Perth", "Melbourne", "Sydney", "Adelaide"]
+for index, key in enumerate(keys):
+  Australian_cities[ ? ] = values[ ? ]
+ 
+print( ? )
 ```
