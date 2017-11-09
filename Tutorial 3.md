@@ -2,12 +2,12 @@
 
 
 ## Contents:
-  1. If statements
-  2. For loops 
-  3. Combing both
-  4. Lists
-  5. Dictionaries
-  6. Combining EVERYTHING together 
+  [1. If statements](## 1. If statements)
+  [2. For loops](## 2. For loops )
+  [3. Combing both](## 3. Combing both)
+  [4. Lists](## 4. Lists)
+  [5. Dictionaries](## 5. Dictionaries)
+  [6. Combining EVERYTHING together](## 6. Combining EVERYTHING together) 
 
  
 ## 1. If statements
