@@ -1,4 +1,4 @@
-# Tutorial 3: Python week 3. 
+# Python Course week 3. 
 
 
 ## Contents:
