@@ -142,7 +142,7 @@ To work with *.xlsx* files you first need to install (download from the PyPi rep
 Note: if the above fails, ensure you are one the Wi-Fi network 'wsa'. 
 
 ### Reading a .xlsx
-With *openpyxl*, reading from excel spreadsheets is easy. However, one 'rookie error' is the '[Error 13] Permission denied error' 
+With *openpyxl*, reading from excel spreadsheets is easy. However, one common error is the '[Error 13] Permission denied error' 
 which is a result of trying to open an excel spreadsheet that is currently open. If you encounter this error, ensure the spreadsheet
 you are referencing is closed.
 
