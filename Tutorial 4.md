@@ -1,5 +1,5 @@
 # Python Course week 4. 
-A A common file that is very useful to 
+This week is all about reading and writing files, with a direct focus on *.csv*s
 
 ## Contents:
   - [Types of files](#If)
@@ -9,7 +9,7 @@ A A common file that is very useful to
 
   
 ## Types of files
-n important component of computer science deals with a concept termed I/O (input/output). I/O is concerned with how computers 
+A common file that is very useful to n important component of computer science deals with a concept termed I/O (input/output). I/O is concerned with how computers 
 store, read and save data. Specifically there are many different ways to store data, with popular methods are *.csv*, *.xlsx* and *.txt* files. Today, we will look at *.csv* and briefly *.xlsx* files. *.csv* files can be thought of as a store of tabular data, think an excel spreadsheet.
 
 
@@ -175,4 +175,4 @@ Use the following function to update your excel sheet
 wb2.save('Updated_workbook.xlsx')
 ```
 
-Open this file and vie the output.
+Open this file and view the output.
