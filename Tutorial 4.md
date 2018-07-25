@@ -5,7 +5,7 @@ This week is all about reading and writing files, with a direct focus on *.csv*s
   - [Types of files](#types-of-files)
   - [Reading a csv](#reading-a-csv)
   - [Writing a csv](#writing-a-csv)
-  - [Excel working with spreadsheets](#excel:-working-with-spreadsheets)
+  - [Excel working with spreadsheets](#excel-working-with-spreadsheets)
 
   
 ## Types of files
