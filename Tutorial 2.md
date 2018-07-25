@@ -2,7 +2,7 @@
 
 
 ## Contents:
-  - [Command line](#Command-line)
+  - [Command line](#command-line)
   - [py Files](#py)
   - [Running py Files](#Running)
 
