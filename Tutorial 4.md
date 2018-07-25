@@ -3,9 +3,9 @@ This week is all about reading and writing files, with a direct focus on *.csv*s
 
 ## Contents:
   - [Types of files](#types-of-files)
-  - [Reading a .csv](#reading-a-.csv)
-  - [Writing a .csv](#writing-a-.csv)
-  - [Excel: working with spreadsheets](#excel:-working-with-spreadsheets)
+  - [Reading a csv](#reading-a-csv)
+  - [Writing a csv](#writing-a-csv)
+  - [Excel working with spreadsheets](#excel:-working-with-spreadsheets)
 
   
 ## Types of files
@@ -13,7 +13,7 @@ A common file that is very useful to n important component of computer science d
 store, read and save data. Specifically there are many different ways to store data, with popular methods are *.csv*, *.xlsx* and *.txt* files. Today, we will look at *.csv* and briefly *.xlsx* files. *.csv* files can be thought of as a store of tabular data, think an excel spreadsheet.
 
 
-### Writing a .csv
+### Writing a csv
 *.csv* stands for *comma seperated values* which is method used to store data. These types of files provide a logical way to 
 store data in a tabular format. The following can be seen as a .csv
 ```csv
@@ -80,7 +80,7 @@ for i in ?:
 ``` 
 
 
-### Reading a .csv 
+### Reading a csv 
 From the **linearregression** directory, download the my_first_csv.csv. In the below code you will learn how to load a *.csv* file.
 ```python
 with open('my_first_read_csv', 'r') as csv_file_read: 
@@ -133,7 +133,7 @@ with open('my_second_read_csv', 'r') as csv_file_read:
  print( ? )
  ```
 
-## Excel: working with spreadsheets
+## Excel working with spreadsheets
 Excel is an integral part of many businesses due to the ability to easily store, manipulate and save large amounts of relational data.
 To work with *.xlsx* files you first need to install (download from the PyPi repository) the module *openpyxl*. To do this:
 1. Click the 'start panel'. 
