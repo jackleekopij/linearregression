@@ -2,10 +2,10 @@
 This week is all about reading and writing files, with a direct focus on *.csv*s
 
 ## Contents:
-  - [Types of files](#If)
-  - [Reading a .csv](#For)
-  - [Writing a .csv](#Combing)
-  - [Excel: working with spreadsheets](#Lists)
+  - [Types of files](#types-of-files)
+  - [Reading a .csv](#reading-a-.csv)
+  - [Writing a .csv](#writing-a-.csv)
+  - [Excel: working with spreadsheets](#excel:-working-with-spreadsheets)
 
   
 ## Types of files
