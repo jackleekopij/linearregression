@@ -4,7 +4,7 @@
 ## Contents:
   - [Command line](#Command)
   - [py Files](#py)
-  - [Running py Files](#Combing)
+  - [Running py Files](#Running)
 
  
 ## Command line
@@ -35,12 +35,12 @@ cd Documents
 *Changes directory* from the current folder to a low-level folder, in the above case the 'Documents' folder. 
 To move up a directory use: 
 
-``bash
+```bash
 cd .. 
-``
+```
 
 The other useful command is 
- ```powershell
+ ```bash
  dir
  ```
 The above lists all the files in the current folder you are located in. 
