@@ -2,12 +2,12 @@
 
 
 ## Contents:
-  - [If statements](#If)
-  - [For loops](#For)
-  - [Combing both](#Combining)
-  - [Lists](#Lists)
-  - [Dictionaries](#Dictionaries)
-  - [Combining EVERYTHING together](#Combining) 
+  - [If statements](#if-statements)
+  - [For loops](#forloops)
+  - [Combing both](#combining-both)
+  - [Lists](#lists)
+  - [Dictionaries](#dictionaries)
+  - [Combining EVERYTHING together](#combining-everything-together) 
 
  
 ## If statements
@@ -57,7 +57,7 @@ for element in range(?,?):
 
 
 
-## Combing both
+## Combining both
 Both *if statements* and *for loops* are fundamental building blocks to programming. In combination they allow for logic to be repeatedbly be applied.
 
 Below are two tasks to test your knowledge by combining the two. 
