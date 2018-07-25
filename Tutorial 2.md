@@ -1,8 +1,8 @@
-# Python Course week 3. 
+# Python Course week 1. 
 
 
 ## Contents:
-  - [Command line](#Command)
+  - [Command line](#Command-line)
   - [py Files](#py)
   - [Running py Files](#Running)
 
