@@ -1,6 +1,6 @@
 # Python Course week 1. 
 
-
+This tutorial will serve to get you started running Python scripts by covering the following:
 ## Contents:
   - [Command line](#command-line)
   - [py Files](#py-files)
