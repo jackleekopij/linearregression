@@ -3,7 +3,7 @@
 
 ## Contents:
   - [If statements](#if-statements)
-  - [For loops](#forloops)
+  - [For loops](#for-loops)
   - [Combing both](#combining-both)
   - [Lists](#lists)
   - [Dictionaries](#dictionaries)
