@@ -8,14 +8,14 @@
 
  
 ## Command line
-There are multiple ways to access files on a computer with the most user friendly way being the user interface which is provided to the user by clicking the following, ![Alt text](MS document icon.PNG?raw=true "Optional Title").
+There are multiple ways to access files on a computer with the most user friendly way being the user interface which is provided to the user by clicking the following, ![Alt text](MS_document_icon.PNG?raw=true "Optional Title").
 
 An alternative method to accessing files on your computer is available from *Command line/prompt*. On Windows this is most commonly referred to as *Command Prompt* though other systems use names interchangably i.e. *Terminal* on Mac. All of these offer a prompt methodology to navigate and use the computer, purely using the keyboard.
 
 On Windows, to open *Command Prompt*:
   1. 'Click' on the start Window and type 'command propmpt' and press 'Enter'
   2. A window which looks like the following should open
-  ![Alt text](command_prompt.PNG?raw=true "Optional Title")
+  ![Alt text](Command_prompt.PNG?raw=true "Optional Title")
  
 Congratulations, you have just opened your first *Command Prompt* session. But where to from here? Well, lets explore this tool a bit further. In the box, type the following:
 
