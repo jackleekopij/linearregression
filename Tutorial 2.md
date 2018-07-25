@@ -3,8 +3,8 @@
 
 ## Contents:
   - [Command line](#command-line)
-  - [py Files](#py)
-  - [Running py Files](#Running)
+  - [py Files](#py-files)
+  - [Running py Files](#running-py-files)
 
  
 ## Command line
