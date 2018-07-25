@@ -4,7 +4,7 @@
 ## Contents:
   - [If statements](#If)
   - [For loops](#For)
-  - [Combing both](#Combing)
+  - [Combing both](#Combining)
   - [Lists](#Lists)
   - [Dictionaries](#Dictionaries)
   - [Combining EVERYTHING together](#Combining) 
